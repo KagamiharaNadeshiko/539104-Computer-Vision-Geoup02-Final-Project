@@ -6,7 +6,7 @@ Spatial Transform Decoupling (STD) is a rotation-aware object detection method b
 
 This project implements the STD algorithm based on the MMRotate framework, achieving state-of-the-art performance on benchmark datasets including DOTA-v1.0 and HRSC2016.
 
-![Framework Diagram](./figures/framework1.PNG)
+![Framework Diagram](./figures/framework1.png)
 
 ## Key Features
 
