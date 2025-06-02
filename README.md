@@ -12,7 +12,6 @@ This project implements the STD algorithm based on the MMRotate framework, achie
 
 - **Advanced Architecture**: Vision Transformers for high-precision rotated object detection
 - **Innovative Technology**: Spatial transform decoupling mechanism improves detection of rotated objects
-
 - **Complete Toolchain**: Integrated tools for training, evaluation, and visualization
 
 ## Environment Setup
