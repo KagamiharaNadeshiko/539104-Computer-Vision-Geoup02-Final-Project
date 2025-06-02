@@ -297,14 +297,6 @@ Spatial Transform Decoupling（STD）是一種針對旋轉目標檢測的創新�
 3. 使用`strict=False`參數加載部分權重
 ```
 
-## 性能基準
-
-| 數據集 | 骨幹網絡 | mAP | 下載 |
-|-------|---------|-----|------|
-| DOTA-v1.0 | HiViT-S | 78.23 | [模型](https://example.com/dota_hivit_s) |
-| DOTA-v1.0 | ViT-B | 76.54 | [模型](https://example.com/dota_vit_b) |
-| HRSC2016 | HiViT-S | 89.67 | [模型](https://example.com/hrsc_hivit_s) |
-
 ## 致謝
 
 本項目基於以下開源工作：
